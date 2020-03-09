@@ -1,0 +1,9 @@
+C:\Users\spntn\source\repos\CalcVolume\CalcVolume\bin\Debug\CalcVolume.exe.config
+C:\Users\spntn\source\repos\CalcVolume\CalcVolume\bin\Debug\CalcVolume.exe
+C:\Users\spntn\source\repos\CalcVolume\CalcVolume\bin\Debug\CalcVolume.pdb
+C:\Users\spntn\source\repos\CalcVolume\CalcVolume\obj\Debug\CalcVolume.csprojAssemblyReference.cache
+C:\Users\spntn\source\repos\CalcVolume\CalcVolume\obj\Debug\CalcVolume.Form1.resources
+C:\Users\spntn\source\repos\CalcVolume\CalcVolume\obj\Debug\CalcVolume.Properties.Resources.resources
+C:\Users\spntn\source\repos\CalcVolume\CalcVolume\obj\Debug\CalcVolume.csproj.GenerateResource.cache
+C:\Users\spntn\source\repos\CalcVolume\CalcVolume\obj\Debug\CalcVolume.exe
+C:\Users\spntn\source\repos\CalcVolume\CalcVolume\obj\Debug\CalcVolume.pdb
