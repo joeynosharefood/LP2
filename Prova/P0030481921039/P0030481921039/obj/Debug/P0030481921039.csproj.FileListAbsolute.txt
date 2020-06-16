@@ -1,0 +1,10 @@
+C:\Users\Mkay\Desktop\Prova\P0030481921039\P0030481921039\obj\Debug\P0030481921039.csprojAssemblyReference.cache
+C:\Users\Mkay\Desktop\Prova\P0030481921039\P0030481921039\obj\Debug\P0030481921039.Form1.resources
+C:\Users\Mkay\Desktop\Prova\P0030481921039\P0030481921039\obj\Debug\P0030481921039.Properties.Resources.resources
+C:\Users\Mkay\Desktop\Prova\P0030481921039\P0030481921039\obj\Debug\P0030481921039.csproj.GenerateResource.cache
+C:\Users\Mkay\Desktop\Prova\P0030481921039\P0030481921039\obj\Debug\P0030481921039.csproj.CoreCompileInputs.cache
+C:\Users\Mkay\Desktop\Prova\P0030481921039\P0030481921039\bin\Debug\P0030481921039.exe.config
+C:\Users\Mkay\Desktop\Prova\P0030481921039\P0030481921039\bin\Debug\P0030481921039.exe
+C:\Users\Mkay\Desktop\Prova\P0030481921039\P0030481921039\bin\Debug\P0030481921039.pdb
+C:\Users\Mkay\Desktop\Prova\P0030481921039\P0030481921039\obj\Debug\P0030481921039.exe
+C:\Users\Mkay\Desktop\Prova\P0030481921039\P0030481921039\obj\Debug\P0030481921039.pdb
